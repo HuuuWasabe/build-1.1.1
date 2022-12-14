@@ -2,3 +2,4 @@
 Major Fixes:
 - New and improved design
 - profile widget added
+- button design and functions improved
